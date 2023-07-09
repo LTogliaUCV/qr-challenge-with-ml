@@ -24,3 +24,6 @@ To use this program, make sure you have an image containing a QR code to analyze
 Then simply run the Python file and wait for the execution to complete. The program will display the content of the QR code in the image, if one is found.
 
 It is important to note that, due to the random nature of the generated QR codes, the model may misclassify some of the QR codes in the image. However, this program shows how to use machine learning techniques to analyze images and can be used as a basis for more advanced QR code detection projects.
+
+## Notebook
+The notebook explain  teh code usage and pipeline
